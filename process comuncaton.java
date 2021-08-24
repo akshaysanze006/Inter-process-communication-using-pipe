@@ -4,7 +4,7 @@ import java.io.PipedOutputStream
 public class PipeExample 
 {
 20 
-Department of Computer Science and Engineering Vedavyasa Institute of Technology 
+
 public static void main(string[] args) throws IOException { 
 final PipedOutputStream Output=new PipedOutputStream(); final PipedInputStream Input=new Thread(new Runnable() { 
  public void run() 
